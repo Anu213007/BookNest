@@ -43,6 +43,8 @@
 - **Cloudinary** (Optional): For storing and accessing book files (PDFs).
 
 ---
+## **License**
+This project is licensed under the MIT License.
 
 ## Installation
 
@@ -51,7 +53,5 @@
 git clone https://github.com/NabilaJ22/BookNest.git
 cd BookNest
 
-## **License**
-This project is licensed under the MIT License.
 
 
