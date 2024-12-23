@@ -1,0 +1,29 @@
+.delete-button {
+    background-color: #4c94c6;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .delete-button:hover {
+    background-color: #4d8a94;
+  }
+
+  .bookmark-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .bookmark-container .book-card{
+    width: 30%;
+    margin: auto;
+    margin-top: 40px;
+    background-color: rgb(131, 193, 193);
+  }
+  

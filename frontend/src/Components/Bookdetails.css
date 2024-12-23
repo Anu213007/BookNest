@@ -1,0 +1,88 @@
+/* Book Details Container */
+
+.book-details {
+    font-family: 'Arial', sans-serif;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 160px;
+    padding: 20px;
+    background: linear-gradient(145deg, #f3f3f3, #e7e7e7);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  /* Back Button Styling */
+  .back-button {
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #058085;
+    ;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .back-button:hover {
+    background-color: #058085;
+  }
+  
+  /* Book Details Inner Container */
+  .book-details-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+  }
+  
+  /* Book Image Styling */
+  .book-details-image {
+    width: 100%;
+    max-width: 350px;
+    border-radius: 10px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+  }
+  
+  .book-details-image:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Book Info Styling */
+  .book-details-info {
+    max-width: 600px;
+  }
+  
+  .book-details-info h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+  }
+  
+  .book-details-info p {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.6;
+  }
+  
+  /* Responsive Design */
+  @media screen and (min-width: 768px) {
+    .book-details-container {
+      flex-direction: row;
+      align-items: flex-start;
+      text-align: left;
+    }
+  
+    .book-details-image {
+      margin-right: 20px;
+    }
+  }
+  

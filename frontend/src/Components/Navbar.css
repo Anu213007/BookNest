@@ -1,0 +1,135 @@
+/* .logo{
+    display: flex;
+}
+
+nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0 0 10px #089da1;
+    background: #fff;
+    position: fixed;
+    left: 0;
+    z-index: 100;
+}
+
+ nav .logo img{
+    width: 100px;
+    cursor: pointer;
+    margin: 8px 0;
+}
+
+ nav ul{
+    list-style: none;
+}
+
+ nav li{
+    display: inline-block;
+    padding: 0 10px;
+}
+
+ nav li a{
+    text-decoration: none;
+    color: #000;
+}
+
+ nav li a:hover{
+    color: #089da1;
+}
+
+ nav .social_icon i{
+    margin: 0 5px;
+    font-size: 18px;
+}
+
+ nav .social_icon i:hover{
+    color: #089da1;
+    cursor: pointer;
+}
+
+.log-btns{
+    text-decoration: none;
+    color:white;
+    background-color: #058085;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 20px;
+} */
+
+
+
+
+.logo{
+    display: flex;
+}
+
+.nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0 0 10px #089da1;
+    background: #fff;
+   
+}
+
+ .nav .logo img{
+    width: 100px;
+    cursor: pointer;
+    margin: 8px 0;
+}
+
+
+nav .logo img{
+    width: 100px;
+    cursor: pointer;
+    margin: 8px 0;
+}
+
+ .nav ul{
+    list-style: none;
+    display: flex;
+}
+
+ .nav li{
+    display: flex;
+    padding: 0 10px;
+}
+
+ .nav li a{
+    text-decoration: none;
+    color: #000;
+}
+
+ .nav li a:hover{
+    color: #089da1;
+}
+
+ nav .social_icon i{
+    margin: 0 5px;
+    font-size: 18px;
+}
+
+ .nav .social_icon i:hover{
+    color: #089da1;
+    cursor: pointer;
+}
+
+.log-btns{
+    text-decoration: none;
+    color:white;
+    background-color: #058085;
+    border: #058085;
+    border-radius: 5px;
+    outline: none;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.profile-btns{
+    text-decoration: none;
+    color: #058085;
+}
