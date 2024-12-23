@@ -50,3 +50,8 @@
 ```bash
 git clone https://github.com/NabilaJ22/BookNest.git
 cd BookNest
+
+## **License**
+This project is licensed under the MIT License.
+
+
