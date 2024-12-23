@@ -29,6 +29,7 @@
 ### **Frontend**
 - **React.js**: For building a dynamic and interactive user interface.
 - **CSS Framework**: Vanilla CSS for styling.
+- **live Server** : https://booknesttt.netlify.app/
 
 ### **Backend**
 - **Node.js**: Handles server-side logic.
