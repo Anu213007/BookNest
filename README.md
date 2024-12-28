@@ -1,3 +1,12 @@
+#Group members 
+
+**1.Nabila Rayhana Islam**
+**ID: 221-134-006**
+
+**2.Fahmida Rahman Anu**
+**ID: 213-134-007**
+
+
 # BookNest
 
 **BookNest** is a MERN (MongoDB, Express.js, React.js, Node.js) stack web application designed for book lovers. The platform enables users to read PDF books, use bookmarks to save their progress, delete bookmarks, and share reviews about their reading experience.
